@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planet App</string>
+
+    <!-- Home Page -->
+    <string name="home_page_title">List of Planets</string>
+    <string name="home_page_planet_name">Planet Name</string>
+    <string name="home_page_planet_distance">Planet Distance</string>
+
+    <!-- Add Planet Page -->
+    <string name="add_planet_page_title">Add Planet</string>
+    <string name="add_planet_page_upload_button">Upload Image</string>
+    <string name="add_planet_page_name_input">Planet Name</string>
+    <string name="add_planet_page_distance_input">Planet Distance</string>
+    <string name="add_planet_page_confirm_button">Confirm</string>
+
+    <!-- Popup Window -->
+    <string name="popup_window_planet_name_title">Planet Name</string>
+    <string name="popup_window_planet_name">Planet Name</string>
+    <string name="popup_window_planet_distance_title">Planet Distance</string>
+    <string name="popup_window_planet_distance">Planet Distance</string>
+
+
+</resources>
